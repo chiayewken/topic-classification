@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fake-news-urop",
+  "private_key_id": "0d896eeb27ef69fc168568cec51127ac33f1512c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDpFiZNKuFlYbsK\nigYKIJp67aBnP/QqJftt26P+zPXS487KLRTwtGjj2IS6+H2osBVQWkB6qSQZ/03m\nBQ5qgnkunfyc+nKlxqMlxjUUQfBa3JybVLzbtSQfJLUGygN/I5a1Lk20P1aiWwFN\nd2ONUx0DQX4ksZOC1V98ztwivwGbbXUXCpFCxuT5ECqhJ5Nm8xMvPZgs7YXAvSMH\n8zF2OJ5QZR21bsgo5+UqXuScgOMaxU8Tf/xDkUiyZQAHGpwmHzIn2FkMxDl3GdRq\nBGdk1ME5q41rv80uzItx83N9642S+qQd0fr526tJSLbHmM+1Mq5wjFx14IgRRtLz\nXLaGBibdAgMBAAECggEANSt0D8DTGzsUvWX4VDmVO6r2nu7oDfBNn0UN7xsGjXWh\nb52ii/j/f1AeEP+LvJ30MrjvwftQ7KxAMxMes32xUoi//fgkjHvYLg79fzI+d5+h\nCs7k6PJ0e7U2JUcSTp+J6qkWGSKkqtL7JFZya2PU96/qLEkktuDhEBmo/jUXkwJQ\n059P8HxwowDUFK5ZJzH329Hw1luFxBFiXyTrbGbZGn2pJNOLyK8LeRkUULRt86ev\nuldbHtk7zux5Fe7Q8grHNuRauBPI0Akw3DZep+S1zNzeo+W90+WycvNOz7gmmVQg\nR5QsfdNuKQHrf2DlQTLbzZ0ysyfVxDWlaJd0lSDPaQKBgQD1wZfuhEKVMrpLw6/Z\nw6tBawGdvddA4/iuAbba30VeHv7GQeTr3ACcJazs7JDLq1HrNAVc+eIAXUNz/yxi\nHrDOKJ3sMEHdXITemMPx0i9CwjZ362vD8PgHBCdrU4wGt+qRsjh2KaF0OSONxNQX\nZnz/1vM9xSHs8DGPnXjiIa1p5QKBgQDyzVxZBSfRfpp8MSZWY/VEjoyywH0MssJ0\nY+l5UOMIwbVBYgjVVv8peTKYn2M3z6jla4oPaIB78iqcFzT2vzGltAkRTftHW1uV\naj8udw7CvA/XpiPhJKp8FkNbMfj7jVQjXGyfZxmbXSaK+gC1Goj8/6GzxCQmBpkT\n2LPoyziZmQKBgQCgYfFXVbVmTS7LVzAiO9I95Smu2j/qN10JolDFUkShAjVfCY3u\nZyt2vBe4n0J3yJyzlMWTQfi+KB9nSjaa6lCUmmlFxNCXOFP2OVhXLsZtGPYXGOrB\nezdCzPE019dgYxKQdvDmHJEjmk6brMKFavtUs+EWhNp5GOAfS7OiUDwuCQKBgQDC\nnRxyNhGud534AaVLBZ/oLaJU/Li+3uHCTPssxErWD/3qxFt0NOEdKwoFD2yFpasp\nCMOGiirCLl888dUAGkv/F4lVF35bubx0zM6Lvd5U9Ex2e7KymaMVBvtCM5Hwf117\nYm+mbQs3XriwGKdMglJfB79iycp3uD4mjEHYTFu3sQKBgDilXUooraVOuarzSmy+\nv9dm3PsJmQJyRoKanEu0Q5gWjpyrdUQELsQgpJGUoXlnm7NDs3Vofnuf9YTpdP5W\nMCManpoQZ4ngUboHJxN4lwQxB3/3Y9CASzXtmDKGkNlf6YmVE0TUWImbzoOzxS3n\nE2tr3NRnxHj/L5NUQHr/sTXK\n-----END PRIVATE KEY-----\n",
+  "client_email": "ken-889@fake-news-urop.iam.gserviceaccount.com",
+  "client_id": "100589096866736929889",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ken-889%40fake-news-urop.iam.gserviceaccount.com"
+}
