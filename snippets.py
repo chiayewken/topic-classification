@@ -98,8 +98,9 @@ def entities_text(text):
     # entity types from enums.Entity.Type
     entity_type = ('UNKNOWN', 'PERSON', 'LOCATION', 'ORGANIZATION',
                    'EVENT', 'WORK_OF_ART', 'CONSUMER_GOOD', 'OTHER')
-
+    ls = []
     for entity in entities:
+        ls.append(entity)
         print('=' * 20)
         print(u'{:<16}: {}'.format('name', entity.name))
         print(u'{:<16}: {}'.format('type', entity_type[entity.type]))
@@ -107,6 +108,8 @@ def entities_text(text):
         print(u'{:<16}: {}'.format('salience', entity.salience))
         print(u'{:<16}: {}'.format('wikipedia_url',
               entity.metadata.get('wikipedia_url', '-')))
+    return ls
+    print(ls)
     # [END migration_analyze_entities]
 # [END def_entities_text]
 
@@ -266,11 +269,13 @@ def classify_text(text):
         type=enums.Document.Type.PLAIN_TEXT)
 
     categories = client.classify_text(document).categories
-
+    ls = []
     for category in categories:
-        print(u'=' * 20)
-        print(u'{:<16}: {}'.format('name', category.name))
-        print(u'{:<16}: {}'.format('confidence', category.confidence))
+        #print(u'=' * 20)
+        #print(u'{:<16}: {}'.format('name', category.name))
+        #print(u'{:<16}: {}'.format('confidence', category.confidence))
+        ls.append(category.name)
+    return ls[0]
 # [END def_classify_text]
 
 
